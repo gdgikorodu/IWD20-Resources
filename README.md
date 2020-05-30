@@ -31,11 +31,6 @@
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
 | ![]()     | [ FrontEnd Dev Bookmarks ](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. |
-| ![]()      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
-| ![]()      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
-| ![]()      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
-| ![]()      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
-| ![]()      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
 
 ### Backend
 |     |     Name     | Description |
@@ -52,11 +47,6 @@
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
 | ![]()| [ Udacity ](https://www.udacity.com/course/new-android-fundamentals--ud851) | Developing Android Apps |
-| ![]()      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
-| ![]()      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
-| ![]()      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
-| ![]()      | [ Yoyo Wallet ](https://www.yoyowallet.com/)    |   Upgrade your wallet - loyalty and rewards at major retailers |
-| ![]()      | [ PensionBee ](https://www.pensionbee.com/)    |   Combine all your old pensions into one new online plan |
 
 ### Native iOS
 |     |     Name     | Description |
