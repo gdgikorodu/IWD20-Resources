@@ -51,19 +51,20 @@
 ### Native iOS
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
-| ![]()      | [ Emma ](https://emma-app.com/)    |   Emma helps you avoid overdrafts, find and cancel subscriptions, track debt and save money |
-| ![]()      | [ Truelayer ](https://truelayer.com/)    |   Helps developers build applications that securely access data and initiate payments in real time |
-| ![]()      | [ Wealthify ](https://wealthify.com/)    |   Wealthify is a smart and affordable way for everyone to invest. |
-| ![]()      | [ Habito ](https://habito.com/)    |   Habito are a free online mortgage broker, accessible through the Starling Marketplace |
-| ![]()      | [ Wealthsimple ](https://wealthsimple.com/)    |   Professional investing made simple and affordable by combining smart technology with expert human advice |
-| ![]()      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
-| ![]()      | [ Creditladder ](https://creditladder.co.uk/)    |   Make your rent payments count towards building your credit history |
+| ![]()      | [ Open Source iOS Apps ](https://github.com/dkhamsing/open-source-ios-apps)    |   Collaborative List of Open-Source iOS Apps |
+| ![]()      | [ iOS Dev Directory ](https://iosdevdirectory.com/)    |   A comprehensive list of blogs & sites covering iOS development |
+| ![]()      | [ iOS Developer Roadmap ](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)    |   Roadmap to becoming an iOS developer |
+| ![]()      | [ iOS Learning Resources ](https://github.com/sanketfirodiya/iOS-learning-resources)    |   Collection of high quality iOS tutorial sites |
+| ![]()      | [ iOS Learning Materials ](https://github.com/jVirus/iOS-Learning-Materials)    |   Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS |
+| ![]()      | [ Swift 30 Projects ](https://github.com/soapyigu/Swift-30-Projects)    |   30 mini Swift Apps for self-study |
+| ![]()      | [ Flawless iOS ](https://medium.com/flawless-app-stories/33-awesome-github-lists-for-ios-development-336691520d0f)    |   33 awesome GitHub lists for iOS development |
 
 
 ### Cross Platform
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
 | ![]()      | [ Flutter Docs ](https://flutter.dev/docs)    |   Getting Started |
+| ![]()      | [ Intro To Flutter Development Using Dart ](https://www.appbrewery.co/p/intro-to-flutter)    |   10 Hours to Get Started with Flutter |
 | ![]()      | [ The Complete Flutter Development Bootcamp ](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart)    |   Built in collaboration with the Google Flutter team |
 | ![]()      | [ MTECHVIRAL ](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)    |   Tutorials created by GDE for Flutter and Dart, Pawan Kumar |
 | ![]()      | [ FilledStacks ](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/playlists)    |   Contents curated by FilledStacks, Youtube |
