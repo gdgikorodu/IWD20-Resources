@@ -30,7 +30,7 @@
 ### Frontend
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
-| ![]()     | [ Moneybox ](https://moneyboxapp.com) | Round up your purchases to the nearest pound and invest the spare change. |
+| ![]()     | [ FrontEnd Dev Bookmarks ](https://github.com/dypsilon/frontend-dev-bookmarks) | Manually curated collection of resources for frontend web developers. |
 | ![]()      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
 | ![]()      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
 | ![]()      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
@@ -40,13 +40,11 @@
 ### Backend
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
-| ![]()      | [ Emma ](https://emma-app.com/)    |   Emma helps you avoid overdrafts, find and cancel subscriptions, track debt and save money |
-| ![]()      | [ Truelayer ](https://truelayer.com/)    |   Helps developers build applications that securely access data and initiate payments in real time |
-| ![]()      | [ Wealthify ](https://wealthify.com/)    |   Wealthify is a smart and affordable way for everyone to invest. |
-| ![]()      | [ Habito ](https://habito.com/)    |   Habito are a free online mortgage broker, accessible through the Starling Marketplace |
-| ![]()      | [ Wealthsimple ](https://wealthsimple.com/)    |   Professional investing made simple and affordable by combining smart technology with expert human advice |
-| ![]()      | [ Moneyhub ](https://moneyhub.com/)    |   See all your money in one place and use powerful, market-leading tools to achieve your goals |
-| ![]()      | [ Creditladder ](https://creditladder.co.uk/)    |   Make your rent payments count towards building your credit history |
+| ![]()      | [ Learn Php ](https://odan.github.io/learn-php/)    |   Learn modern php |
+| ![]()      | [ Awesome Django ](https://github.com/wsvincent/awesome-django)    |   A curated list of awesome things related to Django |
+| ![]()      | [ Django Docs ](https://www.djangoproject.com/start/)    |   Getting started with Django |
+| ![]()      | [ NodeJS Best Practice ](https://github.com/goldbergyoni/nodebestpractices)    |   The Node.js best practices list |
+| ![]()      | [ Awesome NodeJS Projects ](https://github.com/sqreen/awesome-nodejs-projects)    |   Curated list of awesome open-source applications made with Node.js |
 
 ## Mobile Development
 
