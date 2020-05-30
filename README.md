@@ -53,7 +53,7 @@
 ### Native Android
 |     |     Name     | Description |
 | ------------- |:-------------:| :-----|
-| ![ ]()| [ Udacity ](https://www.udacity.com/course/new-android-fundamentals--ud851) | Developing Android Apps |
+| ![]()| [ Udacity ](https://www.udacity.com/course/new-android-fundamentals--ud851) | Developing Android Apps |
 | ![]()      | [Tail](https://www.tail.at) | Tail links exclusive cashback offers from retailers directly to your Starling card. |
 | ![]()      | [ Flux ](https://tryflux.com)    |   Flux's integration allows users to view detailed receipts for their transactions and will give them access to exclusive loyalty schemes |
 | ![]()      | [ Yolt ](https://www.yolt.com/)    |   Aggregate all of your bank accounts to get a clear view of your finances |
