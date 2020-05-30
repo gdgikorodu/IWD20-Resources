@@ -69,3 +69,11 @@
 | ![]()      | [ MTECHVIRAL ](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)    |   Tutorials created by GDE for Flutter and Dart, Pawan Kumar |
 | ![]()      | [ FilledStacks ](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q/playlists)    |   Contents curated by FilledStacks, Youtube |
 | ![]()      | [ Resocoder ](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA/playlists)    |   Contents curated by Resocoder, Youtube |
+
+
+## Data Science
+|     |     Name     | Description |
+| ------------- |:-------------:| :-----|
+| ![]()| [ Awesome Learn Data Science ](https://github.com/siboehm/awesome-learn-datascience) | Curated list of resources to help you get started with Data Science |
+| ![]()| [ Awesome Data Science ](https://github.com/academic/awesome-datascience) | An awesome Data Science repository to learn and apply for real world problems |
+| ![]()| [ Data Science Learning Resources ](https://analyticsindiamag.com/top-data-science-learning-resources-on-github-for-beginners-experts/) | TOP DATA SCIENCE LEARNING RESOURCES ON GITHUB FOR BEGINNERS & EXPERTS |
